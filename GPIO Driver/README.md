@@ -117,8 +117,10 @@ ret=gpio_pin_intialize(&led_1);
 - Error handling is included to ensure that invalid configurations are caught and handled appropriately.
 
 
+https://github.com/user-attachments/assets/736441c2-9d29-49ee-acc4-6c3fd275d2b7
 
-https://github.com/user-attachments/assets/65b586be-29ab-4b9f-9b9d-bf5ea7afbe7f
+
+
 
 
 
