@@ -4,11 +4,6 @@
 
 This project implements a GPIO driver for the PIC18F46K20 microcontroller. The driver provides functionalities to initialize, configure, and control the General Purpose Input/Output (GPIO) pins and ports of the microcontroller.
 
-## Files
-
-- **gpio.h**: Header file containing the macro definitions, data types, and function declarations for the GPIO driver.
-- **gpio.c**: Source file containing the function definitions for the GPIO driver.
-
 ## gpio.h
 
 This header file includes the necessary dependencies, macro declarations, data type declarations, and function declarations for the GPIO driver.
