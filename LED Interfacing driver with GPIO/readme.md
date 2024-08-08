@@ -93,4 +93,9 @@ Defines the configuration structure for an LED, including the port name, pin num
 see the examples in application.c file
 
 
+https://github.com/user-attachments/assets/4224108e-c219-40e3-99c5-5fd79e568a96
+
+
+
+
 Feel free to adjust any parts to better fit your specific project requirements or preferences!
