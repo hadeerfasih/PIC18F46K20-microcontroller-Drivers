@@ -3,11 +3,6 @@
 
 This project provides an LED interfacing driver for controlling LEDs using GPIO pins. The driver allows for initializing LEDs, turning them on, turning them off, and toggling their state.
 
-## Files
-
-- `led.h`: Header file containing declarations for LED status, LED configuration structure, and function prototypes.
-- `led.c`: Source file containing the implementation of functions to control LEDs.
-
 ## API Functions
 
 ### Initialization
