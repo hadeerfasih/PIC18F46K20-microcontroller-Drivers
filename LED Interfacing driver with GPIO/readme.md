@@ -1,6 +1,4 @@
-Sure! Here's a README for your LED interfacing driver.
 
-```
 # LED Interfacing Driver
 
 This project provides an LED interfacing driver for controlling LEDs using GPIO pins. The driver allows for initializing LEDs, turning them on, turning them off, and toggling their state.
