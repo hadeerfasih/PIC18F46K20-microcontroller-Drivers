@@ -1,6 +1,3 @@
-Here is a README for your push button driver:
-
----
 
 # Push Button Driver with Debouncing
 
