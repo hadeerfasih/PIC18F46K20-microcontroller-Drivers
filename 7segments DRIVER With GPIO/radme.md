@@ -1,5 +1,6 @@
-### Hour example :you will find the code of it cmmented in application.c file & it's proteus file called 7_segments_mux_hour_proteus
+## EXAMPLES: you will find the code of each example commented in application.c file 
 
+### Hour example using 8 digits seven segments and mux concept
 https://github.com/user-attachments/assets/bfedfee2-fd81-48bd-8dc4-ed6a194f7757
 
 ### count from 0 to 99 with two different 7 segments on the same port
